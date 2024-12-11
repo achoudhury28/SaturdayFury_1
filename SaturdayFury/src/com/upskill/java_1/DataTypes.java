@@ -22,12 +22,12 @@ public class DataTypes {
 		
 		//Example of all Primitive Datatypes
 		
-		int d = 123456789;   
+		int d = 1234;   
 		short e = 12345;
 		long f = 12345678912345678L;
 		byte g = 123;
 		float h = 1.23455F;
-		double i = 1.2345678945;
+		double i = 1.0000;
 		char x = 'A';
 		boolean y = false;
 	}
